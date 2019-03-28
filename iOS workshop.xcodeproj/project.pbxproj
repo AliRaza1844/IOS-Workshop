@@ -12,6 +12,8 @@
 		22FEC7D5224CA41600BED353 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22FEC7D3224CA41600BED353 /* Main.storyboard */; };
 		22FEC7D7224CA42600BED353 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22FEC7D6224CA42600BED353 /* Assets.xcassets */; };
 		22FEC7DA224CA42600BED353 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22FEC7D8224CA42600BED353 /* LaunchScreen.storyboard */; };
+		22FEC7E2224CB11800BED353 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 22FEC7E1224CB11700BED353 /* background.jpg */; };
+		22FEC7E4224CBBA600BED353 /* background2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 22FEC7E3224CBBA600BED353 /* background2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		22FEC7D6224CA42600BED353 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		22FEC7D9224CA42600BED353 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		22FEC7DB224CA42600BED353 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22FEC7E1224CB11700BED353 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = background.jpg; path = ../../../Documents/background.jpg; sourceTree = "<group>"; };
+		22FEC7E3224CBBA600BED353 /* background2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = background2.jpg; path = ../../../Documents/background2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		22FEC7CE224CA41500BED353 /* iOS workshop */ = {
 			isa = PBXGroup;
 			children = (
+				22FEC7E1224CB11700BED353 /* background.jpg */,
+				22FEC7E3224CBBA600BED353 /* background2.jpg */,
 				22FEC7CF224CA41500BED353 /* AppDelegate.swift */,
 				22FEC7D1224CA41500BED353 /* ViewController.swift */,
 				22FEC7D3224CA41600BED353 /* Main.storyboard */,
@@ -123,6 +129,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				22FEC7DA224CA42600BED353 /* LaunchScreen.storyboard in Resources */,
+				22FEC7E2224CB11800BED353 /* background.jpg in Resources */,
+				22FEC7E4224CBBA600BED353 /* background2.jpg in Resources */,
 				22FEC7D7224CA42600BED353 /* Assets.xcassets in Resources */,
 				22FEC7D5224CA41600BED353 /* Main.storyboard in Resources */,
 			);
